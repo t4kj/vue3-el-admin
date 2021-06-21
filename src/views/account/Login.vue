@@ -1,4 +1,4 @@
-<template>登录</template>
+<template>{{ $t("message.login") }}</template>
 
 <script>
 export default {
