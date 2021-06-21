@@ -21,6 +21,7 @@ const messages = {
 };
 
 const i18n = createI18n({
+  // locale: zhLocale.name,
   locale: zhLocale.name,
   fallbackLocale: enLocale.name,
   messages,

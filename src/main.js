@@ -14,5 +14,6 @@ createApp(App)
   .use(store)
   .use(router)
   .use(ElementPlus, { i18n: i18n.global.t })
+  // .use(ElementPlus)
   .use(i18n)
   .mount("#app");

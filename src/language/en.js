@@ -1,3 +1,9 @@
 module.exports = {
-  login: "login",
+  account: {
+    title: "Administrator Login",
+    login: "login",
+    code: "code",
+    password: "password",
+    username: "username",
+  },
 };
